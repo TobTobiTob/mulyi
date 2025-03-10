@@ -1,1 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - GreenLeaf Organics</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">GreenLeaf Organics</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="contact-section">
+        <h2>Contact Us</h2>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdd1_8b9nDgr42_y4f-6hl7nXtYLLGKSfhfLcYt3LE0e-AK8A/viewform?embedded=true" 
+            width="640" height="581" frameborder="0">Loading…</iframe>
+    </section>
+
+    <footer>
+        <p>© 2025 GreenLeaf Organics. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
 
